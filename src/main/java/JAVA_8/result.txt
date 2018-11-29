@@ -1,0 +1,112 @@
+Hello World.
+The addition ( 2 + 3 ) is 5
+The addition ( 3 - 2 ) is 1
+10 + 5 = 15
+10 - 5 = 5
+10 x 5 = 50
+10 / 5 = 2
+
+
+The list is 
+1
+2
+3
+4
+5
+
+
+Print all numbers: 1 2 3 4 5 
+Print even numbers: 2 4 
+Print numbers greater than 3: 4 5 
+
+
+VEHICLE DEFAULT METHOD : This is Vehicle Interface.
+FOUR WHEELER DEFAULT METHOD : This is FourWheeler Interface.
+FOUR WHEELER STATIC METHOD : Drive Safely.
+This is a BMW.
+
+
+Lists : [abc, , bc, efg, abcd, , jkl]
+Empty Strings : 2
+Strings of length 3 : 3
+Filtered List : [abc, bc, efg, abcd, jkl]
+Merged String : abc, bc, efg, abcd, jkl
+Numbers : [3, 2, 2, 3, 7, 3, 5]
+Squares List: [9, 4, 49, 25]
+Highest Number in List : 7
+Lowest Number in List : 2
+Sum of All Numbers : 25
+Average of All Numbers : 3.5714285714285716
+Random Numbers : 
+-1749484224
+-1055510566
+-457404743
+-106062050
+49538079
+346479037
+709012917
+734041628
+1255316580
+1529952281
+
+
+First parameter is present : false
+Second parameter is present : true
+The result is 65
+
+
+Current DateTime: 2018-11-26T13:13:16.364
+date1: 2018-11-26
+MONDAY 26/NOVEMBER/2018-13:13:16
+
+
+Next week: 2018-12-03
+Next month: 2018-12-26
+Next year: 2019-11-26
+Date after ten year: 2028-11-26
+
+
+Next Tuesday on : 2018-12-02
+Second Saturday on : 2018-11-10
+
+
+Current date: Mon Nov 26 13:13:16 IST 2018
+Local date: 2018-11-26T13:13:16.406
+Zoned date: 2018-11-26T13:13:16.406+05:30[Asia/Kolkata]
+
+
+
+
+Basic String : Hello_World....
+Basic url : https://www.google.com/
+Basic text : {"id" : "1201", "name" : "satish", "age" : "25"}
+{"id" : "1202", "name" : "krishna", "age" : "28"}
+{"id" : "1203", "name" : "amith", "age" : "39"}
+{"id" : "1204", "name" : "javed", "age" : "23"}
+{"id" : "1205", "name" : "prudvi", "age" : "23"}
+
+
+Basic Encoded String : SGVsbG9fV29ybGQuLi4u
+Basic Decoded String : Hello_World....
+
+
+Basic Encoded url : aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8=
+Basic Decoded url : https://www.google.com/
+
+
+Basic Encoded text(mime) : eyJpZCIgOiAiMTIwMSIsICJuYW1lIiA6ICJzYXRpc2giLCAiYWdlIiA6ICIyNSJ9CnsiaWQiIDog
+IjEyMDIiLCAibmFtZSIgOiAia3Jpc2huYSIsICJhZ2UiIDogIjI4In0KeyJpZCIgOiAiMTIwMyIs
+ICJuYW1lIiA6ICJhbWl0aCIsICJhZ2UiIDogIjM5In0KeyJpZCIgOiAiMTIwNCIsICJuYW1lIiA6
+ICJqYXZlZCIsICJhZ2UiIDogIjIzIn0KeyJpZCIgOiAiMTIwNSIsICJuYW1lIiA6ICJwcnVkdmki
+LCAiYWdlIiA6ICIyMyJ9Cgo=
+Basic Decoded text(mime) : {"id" : "1201", "name" : "satish", "age" : "25"}
+{"id" : "1202", "name" : "krishna", "age" : "28"}
+{"id" : "1203", "name" : "amith", "age" : "39"}
+{"id" : "1204", "name" : "javed", "age" : "23"}
+{"id" : "1205", "name" : "prudvi", "age" : "23"}
+
+
+
+
+
+
