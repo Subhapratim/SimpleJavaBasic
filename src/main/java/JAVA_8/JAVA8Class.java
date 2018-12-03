@@ -1,6 +1,5 @@
 package JAVA_8;
 
-
 import java.util.Scanner;
 
 import JAVA_8.Base64.Base64Class;
@@ -11,11 +10,14 @@ import JAVA_8.Lambda.LambdaExpressionClass;
 import JAVA_8.MethodReference.MethodReferenceClass;
 import JAVA_8.Optional.OptionalClass;
 import JAVA_8.Streams.StreamsClass;
+import consoleCleaner.ClearScreen;
 
 import java.io.IOException;
 
 public class JAVA8Class {
     public static void main(String[] args) throws IOException {
+        ClearScreen.clearConsole();
+
         System.out.println("Press 1 for Lambda Expressions. ");
         System.out.println("Press 2 for Method References. ");
         System.out.println("Press 3 for Functional Interfaces. ");

@@ -21,3 +21,8 @@ mvn package
 To run the code use the command
 -------------------------------
 java -cp target/Java-1.0-SNAPSHOT.jar PACKAGENAME.MAINCLASS
+
+or
+
+java -jar target/Java-1.0-SNAPSHOT.jar
+
