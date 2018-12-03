@@ -11,7 +11,7 @@ import JAVA_8.Streams.StreamsClass;
 
 import java.io.IOException;
 
-public class MainClass {
+public class JAVA8Class {
     public static void main(String[] args) throws IOException {
 
         //Lambda Function
