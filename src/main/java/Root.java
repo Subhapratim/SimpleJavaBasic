@@ -42,8 +42,8 @@ public class Root {
                         e.printStackTrace();
                     }
                     break;
-            default: System.out.println("Please Enter Correct optrion.");
-                    break;
+            default:
+                System.out.println("Please Enter Correct optrion.");
         }
     }
 }
