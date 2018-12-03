@@ -57,6 +57,7 @@ public class MainClass {
         dateFormaterClass.dateFormater(format11, date);
 
         System.out.println();
+
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy.MM.dd G 'at' HH:mm:ss z");
         sdf.setTimeZone(TimeZone.getTimeZone("IST"));
         System.out.println("Date : "+sdf.format(date));
