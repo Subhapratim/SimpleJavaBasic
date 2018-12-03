@@ -1,7 +1,7 @@
-package JAXB.Tester;
+package JAVA_XML.JAXB.Tester;
 
-import JAXB.Model.Book;
-import JAXB.Model.BookStore;
+import JAVA_XML.JAXB.Model.Book;
+import JAVA_XML.JAXB.Model.BookStore;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;

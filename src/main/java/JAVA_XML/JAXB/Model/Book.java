@@ -1,4 +1,4 @@
-package JAXB.Model;
+package JAVA_XML.JAXB.Model;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;

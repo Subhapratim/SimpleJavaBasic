@@ -4,7 +4,7 @@ import SimpleDateFormat.MainClass;
 
 import JAX_READ_WRITE.JAX_Read.Tester.TestRead;
 import JAX_READ_WRITE.JAX_Writer.Tester.TestWriter;
-import JAXB.Tester.BookMain;
+import JAVA_XML.JAXB.Tester.BookMain;
 
 import javax.xml.bind.JAXBException;
 import java.io.IOException;

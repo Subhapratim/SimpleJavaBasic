@@ -1,6 +1,6 @@
 package JAVA_8.DefaultMethod;
 
-public class BMW implements Vehicle, FourWheeler {
+public class BMW implements FourWheeler {
     @Override
     public String name() {
         return "BMW 7 Serious.";
