@@ -45,7 +45,7 @@ public class BookMain {
         Marshaller marshaller = context.createMarshaller();
         marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
 
-        // Write to System.out
+        // Write to Console
         marshaller.marshal(bookStore, System.out);
 
         // Write to File
